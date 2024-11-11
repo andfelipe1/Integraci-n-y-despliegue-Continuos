@@ -40,6 +40,7 @@ tags_only: &tags_only
     tags:
       only: /^.*/
 
+
 workflows:
   version: 1
   deploy_pipeline:
